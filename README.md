@@ -82,5 +82,5 @@ npm start
 
 ---
 
-🔗 **GitHub Repo:** [https://github.com/your-username/directory-management](https://github.com/your-username/directory-management)
+🔗 **GitHub Repo:** https://github.com/NainikaJain/Directory-Management-System
 
