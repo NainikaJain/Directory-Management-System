@@ -28,12 +28,15 @@ A **React.js** and **.NET Core Web API**-based **Business Directory Management S
 │   ├── Services
 │   ├── appsettings.json
 │   ├── Program.cs
-│   ├── Startup.cs
 │
 ├── /frontend (React.js)
 │   ├── src
 │   │   ├── components
 │   │   ├── pages
+│   │   │   ├── Home.js
+│   │   │   ├── BusinessList.js
+│   │   │   ├── EditBusiness.js
+│   │   │   ├── AddBusiness.js
 │   │   ├── App.js
 │   │   ├── index.js
 │   ├── package.json
