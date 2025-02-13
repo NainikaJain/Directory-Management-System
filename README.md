@@ -73,7 +73,7 @@ dotnet run
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start
 ```
 🔹 **App will run on** `http://localhost:3000`
 
